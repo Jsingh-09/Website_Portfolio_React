@@ -11,7 +11,7 @@ const Experience = () => {
                 <li>
                 <p className='font-semibold'>Northrop Grumman</p>
                 <p>San Jose, CA</p>
-                <p>Software Engineer</p>
+                <p className='font-bold'>Software Engineer</p>
                 <p>August 2022 - Present</p>
                 <p>Working on a Platform for AI Deployment (PAID) creating a SWaP constrained hardware/software hosting platform with GPP and GPU resources which included adding the ability to use GPUs to process data using AI/ML algorithms.</p>
                 </li>
